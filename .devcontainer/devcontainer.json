@@ -1,0 +1,22 @@
+{
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        },
+        "intellij": {
+            "plugins": [
+                "com.intellij.plugins.github",
+                "Pythonid"
+            ]
+        },
+        "pycharm": {
+            "plugins": [
+                "com.intellij.plugins.github",
+                "Pythonid"
+            ]
+        }
+    }
+}
